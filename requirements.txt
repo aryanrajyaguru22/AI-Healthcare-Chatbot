@@ -5,3 +5,5 @@ nltk
 tf-keras
 google-generativeai
 python-dotenv
+pandas
+numpy

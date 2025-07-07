@@ -1,3 +1,7 @@
+#Author : Rajyaguru Aryan
+# Website : https://aryanrajyaguru22.github.io/Portfolio/
+
+
 import streamlit as st
 import os
 import google.generativeai as genai
