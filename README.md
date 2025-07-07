@@ -22,7 +22,7 @@ The AI will either respond with a helpful tip or chat naturally using its langua
 
 ## 🎉 Try It Now
 
-  Step 1: Get the code
-  Step 2: Set up your environment
-  Step 3: Install the magic ingredients
-  Step 4: Fire it up!
+  Step 1: Get the code <br>
+  Step 2: Set up your environment <br>
+  Step 3: Install the magic ingredients <br>
+   Step 4: Fire it up! <br>
