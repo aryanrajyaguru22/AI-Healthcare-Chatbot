@@ -93,9 +93,9 @@ Your web browser will automatically open a new tab with the AI Healthcare Chatbo
 File Structure
 The project directory is structured as follows:
 
-├── app.py              # The main Streamlit application script
-├── requirements.txt    # Lists all Python dependencies
-├── .env                # Stores the Google API key (optional, if not hardcoded)
+├── app.py              # The main Streamlit application script <br>
+├── requirements.txt    # Lists all Python dependencies <br>
+├── .env                # Stores the Google API key (optional, if not hardcoded) <br>
 └── README.md           # This readme file
 
 
