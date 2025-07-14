@@ -15,7 +15,7 @@ st.set_page_config(
 
 # --- API CONFIGURATION ---
 # The API key is hardcoded. In a production environment, use environment variables.
-API_KEY = "AIzaSyBiyu0WGMRtcPBuTZaGdmziMn1FWHfz1R0"
+API_KEY = "#" # Replace with your actual API key
 
 # Configure the generative AI model
 try:
